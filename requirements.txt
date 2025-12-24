@@ -6,6 +6,5 @@ openpyxl
 PyPDF2
 python-docx
 sentence-transformers
-openai
 requests
 glob
